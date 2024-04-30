@@ -8,7 +8,7 @@ function Skill() {
       </div>
       <div className="flex-grow sm:text-left text-center mt-6 sm:mt-0">
         <h2 className="text-gray-900 text-lg title-font font-medium mb-2">FrontEnd</h2>
-        <p className="leading-relaxed text-base">The Tools i can know in this area are HTML, CSS, Tailwindcss, Javacript, Typescript, ReactJS, Nodejs, Vite, Astro, NextJS, Python, SQL, FaunaDB and Cypress.</p>
+        <p className="leading-relaxed text-md">The programming tools I know how to use in this area are HTML, CSS, Tailwindcss, Javascript, Typescript, ReactJS, Nodejs, Vite, Astro, NextJS, Python, SQL, FaunaDB, and Cypress. I look forward to continuing to learn more.</p>
       
       </div>
     </div>
@@ -23,7 +23,7 @@ function Skill() {
       </div>
       <div className="flex-grow sm:text-left text-center mt-6 sm:mt-0">
         <h2 className="text-gray-900 text-lg title-font font-medium mb-2">Designer</h2>
-        <p className="leading-relaxed text-base">The Tools i can know in this area are Adobe Premiere, Adobe Photoshop, Adobe After Effects, Adobe Illustraitor, Adobe Audition, Adobe Indesign and Canvas.</p>
+        <p className="leading-relaxed text-md">With respect to this area, I know how to use the following: Adobe Premiere, Adobe Photoshop, Adobe After Effects, Adobe Illustrator, Adobe Audition, Adobe Indesign, and Canva.</p>
       
       </div>
      
@@ -37,7 +37,7 @@ function Skill() {
       </div>
       <div className="flex-grow sm:text-left text-center mt-6 sm:mt-0">
         <h2 className="text-gray-900 text-lg title-font font-medium mb-2">UX/UI</h2>
-        <p className="leading-relaxed text-base">The Tools i can know in this area are Sketch, Adobe XD and Figma.</p>
+        <p className="leading-relaxed text-md">In this area, I know how to use Sketch, Adobe XD, and Figma.</p>
       
       </div>
     </div>

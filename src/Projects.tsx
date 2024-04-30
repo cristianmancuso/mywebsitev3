@@ -16,10 +16,10 @@ function Projects() {
                 src={Imagen.image3}/>
               <div className="flex-grow sm:pl-8">
                 <h2 className=" font-medium text-lg text-gray-900">
-                  Gym Design
+                  G&M Design
                 </h2>
                 <p className="mb-4">
-                Home renovation company in Argentina. I worked on this project from scratch, starting with creating the logo, designing the website, and finally bringing it to life.
+                G&M Design is a renovation company in Argentina. I developed all of the elements on this website and also created the logo, businnes cards, and fliers for G&M Design.
                 </p>
                 <button className="buttonProjects"><a href="https://www.gymdesignreformas.com/" target="_blank">Visit Website</a></button>
               </div>
@@ -38,7 +38,7 @@ function Projects() {
                 Sam’s Happy Tails Pet Co.
                 </h2>
                 <p className="mb-4">
-                Dog services company. With Sam, the owner, we started creating the project for her logo and website from scratch. I designed the logo, created the page layouts, and ultimately built the website
+                Alongside the company owner, I created this website to promote the pet services offered. Everything was developed from scratch, including descriptions of services, testimonials, inquiry boxes, photos, and a detailed background of the owner's experience. 
                 </p>
                 <button className="buttonProjects"><a href="https://samshappytails.com/" target="_blank">Visit Website</a></button>
               </div>
@@ -60,7 +60,7 @@ function Projects() {
                 Alan J Baumann Sr. Memorial
                 </h2>
                 <p className="mb-4">
-                The Baumann Family hired me to create the website in tribute to Alan J Baumann Sr. I developed this project following the guidelines of one of his sons, Alan J Baumann Jr. Grateful to the family for trusting me.
+                The Baumann family hired me to create the website, video, and memorial card for their beloved family member's memorial services.  I organized all of the photos and videos into one cohesive video with music.  I embedded that video onto the website I created for the Baumann family.  Also on the website are some words from the family, a text box for guests visiting the site to leave a comment, pictures, and more.
                 </p>
                 <button className="buttonProjects"><a href="https://ajbaumannsrmemorial.netlify.app/" target="_blank">Visit Website</a></button>
               </div>
@@ -80,7 +80,7 @@ function Projects() {
                 Walter Gallo Memorial
                 </h2>
                 <p className="mb-4">
-                I had the privilege of creating the website in tribute to Walter Gallo. Kara, one of his daughters, selected the elements she wanted to be on the website and its structure
+                I had the privilege of creating the website in tribute to Walter Gallo. In collaboration with his family, we selected the design, layout, website feautures, colors, and more. It was an honor to make their vision come to life by creating the website with the corresponding video and memorial card with the QR code to lead you to the website.
                 </p>
                 <button className="buttonProjects"><a href="https://waltergallomemorial.netlify.app/" target="_blank">Visit Website</a></button>
               </div>
