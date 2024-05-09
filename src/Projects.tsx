@@ -3,7 +3,7 @@ function Projects() {
   return (
     <section className="lg:p-20 md:p-16 sm:p-10 p-5">
       <div className="container px-5 py-24 mx-auto">
-        
+      <h2 className="sm:text-3xl text-2xl font-medium  mb-2 text-black text-center pb-20">Projects:</h2>
 
         <div className="flex flex-wrap -m-4">
              
@@ -51,7 +51,7 @@ function Projects() {
               <img
                 alt="Gymdesign"
                 className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                src={Imagen.image7}/>
+                src={Imagen.image9}/>
               <div className="flex-grow sm:pl-8">
                 <h2 className=" font-medium text-lg text-gray-900">
                 Plagamix Fumigaciones
