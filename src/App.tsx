@@ -1,4 +1,4 @@
-import Cabeza from './Cabeza.tsx'
+
 import Servicios from './Servicios.tsx'
 import Testimonial from './Testimonial.tsx'
 import Projects from './Projects.tsx'
@@ -8,11 +8,11 @@ import Contactme from './Contactme.tsx'
 
 
 
+
 function App() {
   
   return (
     <>
-    <Cabeza/>
     <Servicios/>
     <Testimonial/>
     <Projects/>

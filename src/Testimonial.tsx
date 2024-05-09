@@ -2,6 +2,9 @@ function Testimonial() {
   return (
     <section className="bg-slate-900 lg:p-10 md:p-12 sm:p-10 p-5">
   <div className="container px-5 py-24 mx-auto">
+    <div>
+      <h3 className="sm:text-3xl text-2xl font-medium  mb-2 text-gray-200 text-center pb-10">Testimonials</h3>
+    </div>
 
     <div className="flex flex-wrap -m-4">
 
@@ -44,6 +47,14 @@ function Testimonial() {
     <p className="leading-relaxed text-white">Cristian helped me greatly with my business website. He created everything on the website to my liking and provided me with the corresponding fliers to promote my business. Cristian is very creative and hard-working. Do not hesitate to contact him!</p>
     <span className="inline-block h-1 w-10 rounded bg-white mt-6 mb-4"></span>
     <h2 className="text-gray-200 font-medium  tracking-wider text-lg">Lucas M.</h2>
+  </div>
+</div>
+
+<div className="lg:w-1/3 lg:mb-0 mb-6 pt-20 px-4">
+  <div className="h-full text-center">
+    <p className="leading-relaxed text-white">I had the pleasure of working with Cris on a recent project, and I couldn't be happier with the results. Cris created a stunning video to launch a course I had developed, and his work truly exceeded my expectations. He did an amazing job ensuring the video perfectly aligned with my vision. He also was incredibly fast in delivering the final product. He pays attention to every detail and followed all the guidelines, capturing the essence of my course. Working with Cris was an enjoyable experience from start to finish. His professionalism, talent, and dedication are truly commendable, and I would highly recommend him to anyone. If you're in need of top-notch video production, Cris is the person to call. Thank you, Cris, for your outstanding work—I couldn't be happier with the video you created!!</p>
+    <span className="inline-block h-1 w-10 rounded bg-white mt-6 mb-4"></span>
+    <h2 className="text-gray-200 font-medium  tracking-wider text-lg">Cristina C.</h2>
   </div>
 </div>
 

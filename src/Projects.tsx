@@ -45,6 +45,25 @@ function Projects() {
             </div>
           </div>
 
+           {/*Projecto 3*/}
+         <div className="p-4 lg:w-1/2">
+            <div className="h-full flex sm:flex-row flex-col items-center sm:justify-start justify-center text-center sm:text-left">
+              <img
+                alt="Gymdesign"
+                className="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
+                src={Imagen.image7}/>
+              <div className="flex-grow sm:pl-8">
+                <h2 className=" font-medium text-lg text-gray-900">
+                Plagamix Fumigaciones
+                </h2>
+                <p className="mb-4">
+                Alongside the company owner, I created this website to promote the fumigation services offered. Everything was developed from scratch.
+                </p>
+                <button className="buttonProjects"><a href="https://www.fumigacionesplagamix.com/" target="_blank">Visit Website</a></button>
+              </div>
+            </div>
+          </div>
+
 
 
 
@@ -86,6 +105,8 @@ function Projects() {
               </div>
             </div>
           </div>
+        
+
         
         
         
